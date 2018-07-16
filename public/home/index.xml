@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Alan Mishler</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on Alan Mishler</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 05 Jul 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>About I am a PhD student in the Department of Statistics &amp;amp; Data Science at Carnegie Mellon University, entering my third year. I work with Professor Rebecca Nugent on clustering methods to estimate latent parameters in cognitive diagnosis models, and I work with Professor Edward Kennedy on counterfactual formulations of fairness criteria in the context of algorithmic bias.
+I am also currently a Data Scientist/Quantitative Analyst Intern at Google in New York City, working on a text processing component of a machine learning pipeline.</description>
+    </item>
+    
+    <item>
+      <title>News &amp; Events</title>
+      <link>/home/news/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/home/news/</guid>
+      <description>07/2018: Presentation at the Doctoral Consortium at the Educational Data Mining conference in Buffalo, NY.
+ 06/2018&amp;mdash;08/2018: Data Scientist internship at Google in New York City.
+ 06/2018: Poster presentation at the Classification Society Meeting in Stony Brook NY.
+ 05/2018: Poster presentation at the Atlantic Causal Inference Conference in Pittsburgh, PA.
+ 11/2017: Competing with the same group (below) as a national finalist at the Citadel Datathon in New York, NY.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/home/research/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/home/research/</guid>
+      <description>Parameter estimation in cognitive diagnosis models using clustering Project with Rebecca Nugent
+Cognitive Diagnosis Models (CDMs) are a type of latent class model used frequently in education and pyschometrics. One typical application is to estimate whether students in a learning environment have mastered or not mastered each of a set of K skills. Traditional likelihood-based estimation methods are computationally intensive and become intractable for large datasets. We are investigating how to optimally estimate skill profiles using a lightweight, model-agnostic alternative: clustering, via k-means type algorithms or hierarchical agglomerative clustering.</description>
+    </item>
+    
+  </channel>
+</rss>
