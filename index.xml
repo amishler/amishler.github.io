@@ -7,13 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 05 Jul 2018 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jul 2018 00:00:00 -0600</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Clustering students and inferring skill profiles with skill hierarchies</title>
+      <link>/publication/2018_07_18_clusteringstudents_edm/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 -0600</pubDate>
+      
+      <guid>/publication/2018_07_18_clusteringstudents_edm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Privacy Policy</title>
       <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 -0600</pubDate>
       
       <guid>/privacy/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
@@ -21,9 +30,54 @@
     </item>
     
     <item>
+      <title>Clustering students and inferring skill profiles with skill hierarchies</title>
+      <link>/publication/2018_07_clusteringstudents_classificationsociety/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 -0600</pubDate>
+      
+      <guid>/publication/2018_07_clusteringstudents_classificationsociety/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Counterfactual prediction and fairness in risk assessment tools</title>
+      <link>/publication/2018_05_counterfactualprediction_acic/</link>
+      <pubDate>Tue, 22 May 2018 00:00:00 -0600</pubDate>
+      
+      <guid>/publication/2018_05_counterfactualprediction_acic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human use of machine translation to extract information from texts</title>
+      <link>/publication/2018_michaeletal_translationbook/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/2018_michaeletal_translationbook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My title</title>
+      <link>/publication/00_template/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/00_template/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Filtering tweets for social unrest</title>
+      <link>/publication/2017_01_30_filteringtweets_icsc/</link>
+      <pubDate>Mon, 30 Jan 2017 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/2017_01_30_filteringtweets_icsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Example Talk</title>
       <link>/talk/example-talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
       
       <guid>/talk/example-talk/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
@@ -33,7 +87,7 @@
     <item>
       <title>Deep Learning</title>
       <link>/project/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0600</pubDate>
       
       <guid>/project/deep-learning/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -51,7 +105,7 @@
     <item>
       <title>External Project</title>
       <link>/project/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0600</pubDate>
       
       <guid>/project/example-external-project/</guid>
       <description></description>
@@ -60,7 +114,7 @@
     <item>
       <title>Academic: the website designer for Hugo</title>
       <link>/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
       
       <guid>/post/getting-started/</guid>
       <description>
@@ -246,51 +300,39 @@ git submodule update --init --recursive
     </item>
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>Machine classification of social media text along useful sociocultural dimensions</title>
+      <link>/publication/2016_machineclassification_casl/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
       
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;R Markdown&lt;/h1&gt;
-&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)
-##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00
-fit &amp;lt;- lm(dist ~ speed, data = cars)
-fit
-## 
-## Call:
-## lm(formula = dist ~ speed, data = cars)
-## 
-## Coefficients:
-## (Intercept)        speed  
-##     -17.579        3.932&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;div id=&#34;including-plots&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Including Plots&lt;/h1&gt;
-&lt;p&gt;You can also embed plots. See Figure &lt;a href=&#34;#fig:pie&#34;&gt;1&lt;/a&gt; for example:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),
-  col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),
-  init.angle = -50, border = NA
-)&lt;/code&gt;&lt;/pre&gt;
-&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
-&lt;p class=&#34;caption&#34;&gt;
-Figure 1: A fancy pie chart.
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</description>
+      <guid>/publication/2016_machineclassification_casl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Triage Decision Making</title>
+      <link>/publication/2016_triagedecisionmaking_cognitivesciecnesociety/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/2016_triagedecisionmaking_cognitivesciecnesociety/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reading between the lines: A prototype model for detecting Twitter sockpuppet accounts using language-agnostic processes</title>
+      <link>/publication/2015_08_06_twittersockpuppets_hci/</link>
+      <pubDate>Thu, 06 Aug 2015 00:00:00 -0600</pubDate>
+      
+      <guid>/publication/2015_08_06_twittersockpuppets_hci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using structural topic modeling to detect events and cluster Twitter users in the Ukrainian crisis</title>
+      <link>/publication/2015_08_06_structuraltopicmodeling_hci/</link>
+      <pubDate>Thu, 06 Aug 2015 00:00:00 -0600</pubDate>
+      
+      <guid>/publication/2015_08_06_structuraltopicmodeling_hci/</guid>
+      <description></description>
     </item>
     
   </channel>

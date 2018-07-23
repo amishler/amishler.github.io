@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 on Alan Mishler</title>
+    <link>/publication_types/0/</link>
+    <description>Recent content in 0 on Alan Mishler</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 22 May 2018 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Counterfactual prediction and fairness in risk assessment tools</title>
+      <link>/publication/2018_05_counterfactualprediction_acic/</link>
+      <pubDate>Tue, 22 May 2018 00:00:00 -0600</pubDate>
+      
+      <guid>/publication/2018_05_counterfactualprediction_acic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My title</title>
+      <link>/publication/00_template/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/00_template/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reading between the lines: A prototype model for detecting Twitter sockpuppet accounts using language-agnostic processes</title>
+      <link>/publication/2015_08_06_twittersockpuppets_hci/</link>
+      <pubDate>Thu, 06 Aug 2015 00:00:00 -0600</pubDate>
+      
+      <guid>/publication/2015_08_06_twittersockpuppets_hci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using structural topic modeling to detect events and cluster Twitter users in the Ukrainian crisis</title>
+      <link>/publication/2015_08_06_structuraltopicmodeling_hci/</link>
+      <pubDate>Thu, 06 Aug 2015 00:00:00 -0600</pubDate>
+      
+      <guid>/publication/2015_08_06_structuraltopicmodeling_hci/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
