@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 05 Jul 2018 00:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jul 2018 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/home/about/</link>
-      <pubDate>Thu, 05 Jul 2018 00:00:00 -0600</pubDate>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 -0400</pubDate>
       
       <guid>/home/about/</guid>
       <description>About I am a PhD student in the Department of Statistics &amp;amp; Data Science at Carnegie Mellon University, entering my third year. I work with Professor Rebecca Nugent on clustering methods to estimate latent class parameters in cognitive diagnosis models, and I work with Professor Edward Kennedy on counterfactual formulations of fairness criteria in the context of algorithmic bias.
@@ -25,7 +25,7 @@ I am also currently a Data Scientist/Quantitative Analyst Intern at Google in Ne
     <item>
       <title>News &amp; Events</title>
       <link>/home/news/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/home/news/</guid>
       <description>07/2018: Presentation at the Doctoral Consortium at the Educational Data Mining conference in Buffalo, NY.
@@ -38,7 +38,7 @@ I am also currently a Data Scientist/Quantitative Analyst Intern at Google in Ne
     <item>
       <title>Research</title>
       <link>/home/research/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/home/research/</guid>
       <description>Parameter estimation in cognitive diagnosis models using clustering Project with Rebecca Nugent
@@ -48,7 +48,7 @@ Cognitive Diagnosis Models (CDMs) are a type of latent class model used frequent
     <item>
       <title>Selected Publications</title>
       <link>/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/home/publications_selected/</guid>
       <description></description>

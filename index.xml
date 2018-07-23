@@ -7,13 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 05 Jul 2018 00:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jul 2018 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Clustering students and inferring skill profiles with skill hierarchies</title>
       <link>/publication/2018_07_18_clusteringstudents_edm/</link>
-      <pubDate>Wed, 18 Jul 2018 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 -0400</pubDate>
       
       <guid>/publication/2018_07_18_clusteringstudents_edm/</guid>
       <description></description>
@@ -22,7 +22,7 @@
     <item>
       <title>Privacy Policy</title>
       <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 -0600</pubDate>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 -0400</pubDate>
       
       <guid>/privacy/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
@@ -32,7 +32,7 @@
     <item>
       <title>Clustering students and inferring skill profiles with skill hierarchies</title>
       <link>/publication/2018_07_clusteringstudents_classificationsociety/</link>
-      <pubDate>Thu, 21 Jun 2018 00:00:00 -0600</pubDate>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 -0400</pubDate>
       
       <guid>/publication/2018_07_clusteringstudents_classificationsociety/</guid>
       <description></description>
@@ -41,7 +41,7 @@
     <item>
       <title>Counterfactual prediction and fairness in risk assessment tools</title>
       <link>/publication/2018_05_counterfactualprediction_acic/</link>
-      <pubDate>Tue, 22 May 2018 00:00:00 -0600</pubDate>
+      <pubDate>Tue, 22 May 2018 00:00:00 -0400</pubDate>
       
       <guid>/publication/2018_05_counterfactualprediction_acic/</guid>
       <description></description>
@@ -50,7 +50,7 @@
     <item>
       <title>Human use of machine translation to extract information from texts</title>
       <link>/publication/2018_michaeletal_translationbook/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
       
       <guid>/publication/2018_michaeletal_translationbook/</guid>
       <description></description>
@@ -59,7 +59,7 @@
     <item>
       <title>My title</title>
       <link>/publication/00_template/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
       
       <guid>/publication/00_template/</guid>
       <description></description>
@@ -68,7 +68,7 @@
     <item>
       <title>Filtering tweets for social unrest</title>
       <link>/publication/2017_01_30_filteringtweets_icsc/</link>
-      <pubDate>Mon, 30 Jan 2017 00:00:00 -0700</pubDate>
+      <pubDate>Mon, 30 Jan 2017 00:00:00 -0500</pubDate>
       
       <guid>/publication/2017_01_30_filteringtweets_icsc/</guid>
       <description></description>
@@ -77,7 +77,7 @@
     <item>
       <title>Example Talk</title>
       <link>/talk/example-talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
       <guid>/talk/example-talk/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
@@ -87,7 +87,7 @@
     <item>
       <title>Deep Learning</title>
       <link>/project/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/project/deep-learning/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -105,7 +105,7 @@
     <item>
       <title>External Project</title>
       <link>/project/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/project/example-external-project/</guid>
       <description></description>
@@ -114,7 +114,7 @@
     <item>
       <title>Academic: the website designer for Hugo</title>
       <link>/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/post/getting-started/</guid>
       <description>
@@ -302,7 +302,7 @@ git submodule update --init --recursive
     <item>
       <title>Machine classification of social media text along useful sociocultural dimensions</title>
       <link>/publication/2016_machineclassification_casl/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
       
       <guid>/publication/2016_machineclassification_casl/</guid>
       <description></description>
@@ -311,7 +311,7 @@ git submodule update --init --recursive
     <item>
       <title>Modeling Triage Decision Making</title>
       <link>/publication/2016_triagedecisionmaking_cognitivesciecnesociety/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
       
       <guid>/publication/2016_triagedecisionmaking_cognitivesciecnesociety/</guid>
       <description></description>
@@ -320,7 +320,7 @@ git submodule update --init --recursive
     <item>
       <title>Reading between the lines: A prototype model for detecting Twitter sockpuppet accounts using language-agnostic processes</title>
       <link>/publication/2015_08_06_twittersockpuppets_hci/</link>
-      <pubDate>Thu, 06 Aug 2015 00:00:00 -0600</pubDate>
+      <pubDate>Thu, 06 Aug 2015 00:00:00 -0400</pubDate>
       
       <guid>/publication/2015_08_06_twittersockpuppets_hci/</guid>
       <description></description>
@@ -329,7 +329,7 @@ git submodule update --init --recursive
     <item>
       <title>Using structural topic modeling to detect events and cluster Twitter users in the Ukrainian crisis</title>
       <link>/publication/2015_08_06_structuraltopicmodeling_hci/</link>
-      <pubDate>Thu, 06 Aug 2015 00:00:00 -0600</pubDate>
+      <pubDate>Thu, 06 Aug 2015 00:00:00 -0400</pubDate>
       
       <guid>/publication/2015_08_06_structuraltopicmodeling_hci/</guid>
       <description></description>
