@@ -18,8 +18,8 @@
       <pubDate>Thu, 05 Jul 2018 00:00:00 -0400</pubDate>
       
       <guid>/home/about/</guid>
-      <description>About I am a PhD student in the Department of Statistics &amp;amp; Data Science at Carnegie Mellon University, entering my third year. I work with Professor Rebecca Nugent on clustering methods to estimate latent class parameters in cognitive diagnosis models, and I work with Professor Edward Kennedy on counterfactual formulations of fairness criteria in the context of algorithmic bias.
-I am also currently a Data Scientist/Quantitative Analyst Intern at Google in New York City, working on a text processing component of a machine learning pipeline.</description>
+      <description>About I am a PhD student in the Department of Statistics &amp;amp; Data Science at Carnegie Mellon University, entering my third year. I work with Professor Rebecca Nugent on clustering methods to estimate latent class parameters in cognitive diagnosis models and with Professor Edward Kennedy on counterfactual formulations of fairness criteria in the context of algorithmic bias.
+Currently, I am a Data Scientist/Quantitative Analyst Intern at Google in New York City, working on a text processing component of a machine learning pipeline.</description>
     </item>
     
     <item>
@@ -32,17 +32,17 @@ I am also currently a Data Scientist/Quantitative Analyst Intern at Google in Ne
  06/2018&amp;mdash;08/2018: Data Scientist internship at Google in New York City.
  06/2018: Poster presentation at the Classification Society Meeting in Stony Brook NY.
  05/2018: Poster presentation at the Atlantic Causal Inference Conference in Pittsburgh, PA.
- 11/2017: Competing with the same group (below) as a national finalist at the Citadel Datathon in New York, NY.</description>
+ 11/2017: National finalist at the Citadel Data Open in New York, NY.
+ 09/16/2017: Winner of the Citadel Data Open datathon at Carnegie Mellon, with fellow students Nic Dalmasso, Kwhangho Kim, and Chirag Nagpal.</description>
     </item>
     
     <item>
-      <title>Research</title>
+      <title>Research &amp; Reading Groups</title>
       <link>/home/research/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/home/research/</guid>
-      <description>Parameter estimation in cognitive diagnosis models using clustering Project with Rebecca Nugent
-Cognitive Diagnosis Models (CDMs) are a type of latent class model used frequently in education and psychometrics. One typical application is to estimate whether students in a learning environment have mastered or not mastered each of a set of K skills. Traditional likelihood-based estimation methods are computationally intensive and become intractable for large datasets. We are investigating how to optimally estimate skill profiles using a lightweight, model-agnostic alternative: clustering, via k-means type algorithms or hierarchical agglomerative clustering.</description>
+      <description>Parameter estimation in cognitive diagnosis models using clustering Cognitive Diagnosis Models (CDMs) are a type of latent class model used frequently in education and psychometrics. One typical application is to estimate whether students in a learning environment have mastered or not mastered each of a set of K skills. Traditional likelihood-based estimation methods are computationally intensive and become intractable for large datasets. I am investigating how to optimally estimate skill profiles using a lightweight, model-agnostic alternative: clustering, via k-means type algorithms or hierarchical agglomerative clustering.</description>
     </item>
     
     <item>
