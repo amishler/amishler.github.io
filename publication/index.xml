@@ -7,10 +7,55 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 18 Jul 2018 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2020 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="http://amishler.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Challenges in obtaining valid causal effect estimates with machine learning algorithms</title>
+      <link>http://amishler.github.io/publication/2020_05_14_naimi_epidemiology/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 -0400</pubDate>
+      
+      <guid>http://amishler.github.io/publication/2020_05_14_naimi_epidemiology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Achieving Counterfactual Fairness in Risk Assessment Instruments</title>
+      <link>http://amishler.github.io/publication/2020_04_23_aisoc/</link>
+      <pubDate>Thu, 23 Apr 2020 00:00:00 -0400</pubDate>
+      
+      <guid>http://amishler.github.io/publication/2020_04_23_aisoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Counterfactual risk assessments, evaluation, and fairness</title>
+      <link>http://amishler.github.io/publication/2020_01_29_coston_fat/</link>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 -0500</pubDate>
+      
+      <guid>http://amishler.github.io/publication/2020_01_29_coston_fat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When the Oracle Misleads: Modeling the Consequences of Using Observable Rather than Potential Outcomes in Risk Assessment Instruments</title>
+      <link>http://amishler.github.io/publication/2019_12_14_mishler_neurips/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://amishler.github.io/publication/2019_12_14_mishler_neurips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling risk and achieving algorithmic fairness using potential outcomes</title>
+      <link>http://amishler.github.io/publication/2019_01_mishler_aies/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://amishler.github.io/publication/2019_01_mishler_aies/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Clustering students and inferring skill profiles with skill hierarchies</title>
