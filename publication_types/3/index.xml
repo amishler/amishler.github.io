@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 on Alan Mishler</title>
+    <link>http://amishler.github.io/publication_types/3/</link>
+    <description>Recent content in 3 on Alan Mishler</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="http://amishler.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fairness in Risk Assessment Instruments: Post-Processing to Achieve Counterfactual Equalized Odds</title>
+      <link>http://amishler.github.io/publication/2020_09_08_mishler_arxiv/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 -0400</pubDate>
+      
+      <guid>http://amishler.github.io/publication/2020_09_08_mishler_arxiv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

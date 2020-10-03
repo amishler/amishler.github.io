@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 14 May 2020 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="http://amishler.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fairness in Risk Assessment Instruments: Post-Processing to Achieve Counterfactual Equalized Odds</title>
+      <link>http://amishler.github.io/publication/2020_09_08_mishler_arxiv/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 -0400</pubDate>
+      
+      <guid>http://amishler.github.io/publication/2020_09_08_mishler_arxiv/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Challenges in obtaining valid causal effect estimates with machine learning algorithms</title>

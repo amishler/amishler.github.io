@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Fairness in Risk Assessment Instruments: Post-Processing to Achieve Counterfactual Equalized Odds</title>
+      <link>http://amishler.github.io/publication/2020_09_08_mishler_arxiv/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 -0400</pubDate>
+      
+      <guid>http://amishler.github.io/publication/2020_09_08_mishler_arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Challenges in obtaining valid causal effect estimates with machine learning algorithms</title>
       <link>http://amishler.github.io/publication/2020_05_14_naimi_epidemiology/</link>
       <pubDate>Thu, 14 May 2020 00:00:00 -0400</pubDate>
@@ -145,15 +154,6 @@
 
 &lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>http://amishler.github.io/project/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>http://amishler.github.io/project/example-external-project/</guid>
-      <description></description>
     </item>
     
   </channel>
